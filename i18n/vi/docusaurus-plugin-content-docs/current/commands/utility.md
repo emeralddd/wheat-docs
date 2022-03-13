@@ -4,23 +4,23 @@ sidebar_position: 6
 
 # Khác
 
-In this documentation, we will use default prefix is `e`.
+Trong tài liệu này, chúng tôi sẽ sử dụng prefix mặc định là `e`.
 
 ## AVATAR
 
-> See avatar of someone!
+> Xem avatar của một ai đó
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eavatar [mention/id]`
 >
-> If you don't provide any arguments, default will be your avatar
+> Nếu bạn không nhập một người khác, mặc định sẽ lấy avatar của bạn!
 >
-> #### Aliases
+> #### Thay thế
 >
 > `ava` `daidien`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eavatar <@786234973308715008>`
 >
@@ -28,39 +28,39 @@ In this documentation, we will use default prefix is `e`.
 
 ## BUG
 
-> Get link report bugs
+> Lấy link thông báo lỗi
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ebug`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `report` `baocao` `loi`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ebug`
 
 ## CHANGELOG
 
-> See changelog of bot
+> Xem lịch sử cập nhật của bot
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `echangelog [lists/name of version]`
 >
-> If use lists, it will return a list of all versions
+> Nếu bạn nhập lists, sẽ đưa ra danh sách bản cập nhật của bot.
 >
-> If you provide name of version, it will be details of that version
+> Nếu bạn cung cấp tên một bản cập nhật, sẽ đưa ra thông tin về bản cập nhật đó.
 >
-> If you don't provide any arguments, default will be latest version.
+> Nếu bạn không nhập gì, mặc định sẽ đưa ra thông tin về bản cập nhật mới nhất.
 >
-> #### Aliases
+> #### Thay thế
 >
 > `lichsucapnhat` `lscn` `cl`
 >
-> #### Example
+> #### Ví dụ
 >
 > `echangelog`
 >
@@ -70,19 +70,19 @@ In this documentation, we will use default prefix is `e`.
 
 ## COLOR
 
-> See color with code
+> Xem màu với mã
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ecolor [color's code (hex, int, RGB)]`
 >
-> If you don't provide any arguments, default will be random color
+> Nếu không nhập thông tin gì, mặc định sẽ đưa ra màu bất kỳ.
 >
-> #### Aliases
+> #### Thay thế
 >
 > `mau` `sac` `clr`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ecolor`
 >
@@ -94,19 +94,19 @@ In this documentation, we will use default prefix is `e`.
 
 ## HELP
 
-> Show group command lists, commands and provide details for each command.
+> Đưa ra danh sách nhóm lệnh, lệnh và thông tin chi tiết của từng lệnh.
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ehelp [command || group]`
 >
-> If you don't provide any arguments, default will show all group commands
+> Nếu không nhập gì, mặc định sẽ đưa ra danh sách nhóm lệnh.
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ehelp`
 >
@@ -116,119 +116,119 @@ In this documentation, we will use default prefix is `e`.
 
 ## INFO
 
-> Show info of bot
+> Đưa ra thông tin của Bot
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `einfo`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `einfo`
 
 ## INVITE
 
-> Invite Bot!
+> Mời bot!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `einvite`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `inv`
 >
-> #### Example
+> #### Ví dụ
 >
 > `einvite`
 
 ## PING
 
-> Get respond time of bot
+> Lấy thời gian phản hồi của bot
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eping`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eping`
 
 ## QRGEN
 
-> Generate a QRCode
+> Tạo một mã QR từ xâu nhập vào
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eqrgen <string>`
 >
-> String must be provided!
+> Xâu cần được nhập!
 >
-> String's length must be a positive number and less than 1600
+> Độ dài của xâu nhập vào phải là một số nguyên dương có độ dài nhỏ hơn 1600!
 >
-> #### Aliases
+> #### Thay thế
 >
 > `taoqr` `qrgenerator` `qr`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eqrgen HelloWorld`
 
 ## SUPPORT
 
-> Get support information
+> Lấy thông tin hỗ trợ
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `esupport`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `hotro`
 >
-> #### Example
+> #### Ví dụ
 >
 > `esupport`
 
 ## VOTE
 
-> Vote for bot at Top.gg
+> Vote cho bot tại Top.gg
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `evote`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `toppgg`
 >
-> #### Example
+> #### Ví dụ
 >
 > `evote`
 
 ## WHOIS
 
-> Get info of any users at executed server!
+> Lấy thông tin của một người tại server thực thi lệnh!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ewhois [mention/id]`
 >
-> If you don't provide any arguments, default will be your info
+> Nếu không cung cấp thông tin gì, mặc định sẽ là thông tin của bạn!
 >
-> #### Aliases
+> #### Thay thế
 >
 > `timnguoi` `findinfo` `aila`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ewhois`
 >

@@ -4,39 +4,39 @@ sidebar_position: 3
 
 # Fun
 
-In this documentation, we will use default prefix is `e`.
+Trong tài liệu này, chúng tôi sẽ sử dụng prefix mặc định là `e`.
 
 ## ANGRY
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eangry`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eangry`
 
 ## BITE
 
-> Show your action!
+> Thể hiện hành động của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ebite <mention/id>`
 >
-> The user must be provided!
+> Người bị tác động cần được cung cấp!
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ebite <@786234973308715008>`
 >
@@ -44,65 +44,65 @@ In this documentation, we will use default prefix is `e`.
 
 ## CRY
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ecry`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ecry`
 
 ## DIZZY
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `edizzy`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `edizzy`
 
 ## EXCITED
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eexcited`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eexcited`
 
 ## HAPPY
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ehappy`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ehappy`
 
@@ -110,15 +110,15 @@ In this documentation, we will use default prefix is `e`.
 
 > Say hello in random language!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ehello`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `swasdi` `hi` `xinchao` `hallo` `aloha` `conichiwa` `salam` `privet` `nihao`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ehello`
 >
@@ -126,19 +126,19 @@ In this documentation, we will use default prefix is `e`.
 
 ## HUG
 
-> Show your action!
+> Thể hiện hành động của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ehug <mention/id>`
 >
-> The user must be provided!
+> Người bị tác động cần được cung cấp!
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ehug <@786234973308715008>`
 >
@@ -146,19 +146,19 @@ In this documentation, we will use default prefix is `e`.
 
 ## KICK
 
-> Show your action!
+> Thể hiện hành động của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ekick <mention/id>`
 >
-> The user must be provided!
+> Người bị tác động cần được cung cấp!
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ekick <@786234973308715008>`
 >
@@ -166,19 +166,19 @@ In this documentation, we will use default prefix is `e`.
 
 ## KISS
 
-> Show your action!
+> Thể hiện hành động của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ekiss <mention/id>`
 >
-> The user must be provided!
+> Người bị tác động cần được cung cấp!
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ekiss <@786234973308715008>`
 >
@@ -186,19 +186,19 @@ In this documentation, we will use default prefix is `e`.
 
 ## PAT
 
-> Show your action!
+> Thể hiện hành động của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `epat <mention/id>`
 >
-> The user must be provided!
+> Người bị tác động cần được cung cấp!
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `epat <@786234973308715008>`
 >
@@ -206,19 +206,19 @@ In this documentation, we will use default prefix is `e`.
 
 ## PUNCH
 
-> Show your action!
+> Thể hiện hành động của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `epunch <mention/id>`
 >
-> The user must be provided!
+> Người bị tác động cần được cung cấp!
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `epunch <@786234973308715008>`
 >
@@ -226,51 +226,51 @@ In this documentation, we will use default prefix is `e`.
 
 ## SAD
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `esad`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `esad`
 
 ## SCARE
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `escare`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `escare`
 
 ## SLAP
 
-> Show your action!
+> Thể hiện hành động của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eslap <mention/id>`
 >
-> The user must be provided!
+> Người bị tác động cần được cung cấp!
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eslap <@786234973308715008>`
 >
@@ -278,48 +278,48 @@ In this documentation, we will use default prefix is `e`.
 
 ## SLEEPY
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `esleepy`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `esleepy`
 
 ## SMILE
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `esmile`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `esmile`
 
 ## THINKING
 
-> Show your emtional!
+> Thể hiện cảm xúc của bạn!
 >
-> #### Syntax
+> #### Cú pháp
 >
-> `ethinging`
+> `ethinking`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ethinking`

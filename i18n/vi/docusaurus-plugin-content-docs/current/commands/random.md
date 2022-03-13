@@ -4,39 +4,39 @@ sidebar_position: 4
 
 # Ngẫu nhiên
 
-In this documentation, we will use default prefix is `e`.
+Trong tài liệu này, chúng tôi sẽ sử dụng prefix mặc định là `e`.
 
 ## COINFLIP
 
-> Flip a coin
+> Tung một đồng xu
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ecoinflip`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `cf` `coin` `flip` `xu` `lat` `latdongxu` `latxu`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ecoinflip`
 
 ## DICE
 
-> Roll some dices
+> Tung một số con xúc xắc
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `edice [number of faces in first dice] [number of faces in second dice] ... [number of faces in nth dice]`
 >
-> If you don't provide any faces of any dices, default will be a dice has 6 faces
+> Nếu bạn không cung cấp số mặt của một xúc xắc nào, mặc định sẽ là một viên 6 mặt
 >
-> #### Aliases
+> #### Thay thế
 >
 > `xucxac` `xingau` `doxingau` `tungxucxac` `xn` `xx`
 >
-> #### Example
+> #### Ví dụ
 >
 > `edice`
 >
@@ -46,71 +46,71 @@ In this documentation, we will use default prefix is `e`.
 
 ## LOREMIPSUM
 
-> Generate a random Dummy Text
+> Tạo ra một đoạn Dummy Text
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eloremipsum <DD/MM>`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `li` `lorem` `ipsum` `dummy`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eloremipsum`
 
 ## PASSWORD
 
-> Generate a random strong password
+> Tạo ra một mật khẩu mạnh
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `epassword <length>`
 >
-> The length must be a number, greater than 8 and less than 100.
+> Độ dài phải là một số nguyên dương lớn hơn hoặc bằng 8 và nhỏ hơn hoặc bằng 100
 >
-> #### Aliases
+> #### Thay thế
 >
 > `pass` `mk` `passgen` `autopass` `taomk` `matkhau`
 >
-> #### Example
+> #### Ví dụ
 >
 > `epassword 12`
 
 ## PICK
 
-> Choose an option from a list
+> Chọn một lựa chọn ra khỏi một danh sách
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `epick <first option>,<second option>,[third option],[forth option],...`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `choose` `chon`
 >
-> #### Example
+> #### Ví dụ
 >
 > `epick wheat,bot,hello`
 
 ## RAND
 
-> Choose a random number in range
+> Chọn một số ngẫu nhiên trong đoạn
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `erand [min boundary (max)] [max boundary]`
 >
-> If you don't provided any arguments, default range will be [1, 100].
+> Nếu bạn không hề nhập vào một thông tin gì, đoạn mặc định sẽ là [1, 100].
 >
-> If you only provided one argument, range will be [1, argument you provided].
+> Nếu bạn nhập vào một con số, đoạn được chọn sẽ là [1, số bạn nhập].
 >
-> #### Aliases
+> #### Thay thế
 >
 > `rd` `ngaunhien` `batky` `rdm` `r`
 >
-> #### Example
+> #### Ví dụ
 >
 > `erand`
 >
@@ -120,21 +120,21 @@ In this documentation, we will use default prefix is `e`.
 
 ## RDATE
 
-> Give a random date in range
+> Đưa ra một ngày bất kỳ trong khoảng thời gian
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `erdate [DD/MM/YYYY] [DD/MM/YYYY]`
 >
-> If you don't provided any arguments, default will be after 01/01/1970.
+> Nếu bạn không đưa ra thông tin gì, ngày mặc định sẽ lấy sau ngày 01/01/1970.
 >
-> If you only provided one argument, range will be after 01/01/1970 and before the date you provided.
+> Nếu bạn nhập một thông tin ngày, ngày sẽ được lấy sau ngày 01/01/1970 và trước ngày bạn nhập.
 >
-> #### Aliases
+> #### Thay thế
 >
 > `randomdate` `ngaunhienngay` `datebetween`
 >
-> #### Example
+> #### Ví dụ
 >
 > `erdate`
 >
@@ -144,37 +144,37 @@ In this documentation, we will use default prefix is `e`.
 
 ## REMOJI
 
-> Give a random emoji from a random server which bot is joined!
+> Đưa ra một emoji bất kỳ trong những server mà bot đã tham gia!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eremoji`
 >
-> #### Aliases
+> #### Thay thế
 >
 > `re` `emoji` `randomemoji`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eremoji`
 
 ## RTIME
 
-> Give a random time in range
+> Đưa ra một thời gian ngẫu nhiên trong khoảng thời gian
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `rtime [hh:mm] [hh:mm]`
 >
-> If you don't provided any arguments, default will be after 00:00 and before 23:59.
+> Nếu bạn không đưa ra thông tin gì, thời gian mặc định sẽ lấy sau 0 giờ 0 phút và trước 23 giờ 59 phút.
 >
-> If you only provided one argument, range will be after 00:00 and before the time you provided.
+> Nếu bạn nhập một thông tin giờ, thời gian sẽ được lấy sau 0 giờ 0 phút và trước thời gian bạn nhập.
 >
-> #### Aliases
+> #### Thay thế
 >
 > `randomtime` `ngaunhiengio` `timebetween`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ertime`
 >

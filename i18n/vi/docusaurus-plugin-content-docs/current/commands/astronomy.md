@@ -4,25 +4,25 @@ sidebar_position: 1
 
 # Thiên văn học
 
-In this documentation, we will use default prefix is `e`.
+Trong tài liệu này, chúng tôi sẽ sử dụng prefix mặc định là `e`.
 
 ## APOD
 
-> Show a astronomy picture of specific date
+> Xem một bức ảnh thiên văn của một ngày bất kì cung cấp bởi NASA
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eapod [DD/MM/YYYY]`
 >
-> If you don't provide a date, default will be that date.
+> Nếu bạn không cung cấp ngày tháng, mặc định sẽ là ngày đó.
 >
-> The date must after 16/06/1995
+> Ngày nhập vào phải sau hoặc ngày 16/06/1995
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eapod 09/12/2020`
 >

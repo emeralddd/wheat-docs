@@ -4,56 +4,56 @@ sidebar_position: 2
 
 # Bói toán
 
-In this documentation, we will use default prefix is `e`.
+Trong tài liệu này, chúng tôi sẽ sử dụng prefix mặc định là `e`.
 
 ## TAROT
 
-> Choose a random card from Rider-Waite Tarot and show its meaning
+> Chọn ngẫu nhiên 1 lá bài từ bộ Rider-Waite Tarot và đưa ra ý nghĩa!
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `etarot`
 >
-> #### Aliases
+> #### Thay thế
 >
-> `none`
+> `không có`
 >
-> #### Example
+> #### Ví dụ
 >
 > `etarot`
 
 ## NUMEROLOGY
 
-> See the numerology details of a date
+> Xem ý nghĩa con số chủ đạo của một ngày sinh.
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `enumerology <DD/MM/YYYY>`
 >
-> The date must be provided.
+> Ngày bắt buộc phải được nhập.
 >
-> #### Aliases
+> #### Thay thế
 >
 > `thansohoc` `tsh` `nhansohoc` `nsh`
 >
-> #### Example
+> #### Ví dụ
 >
 > `enumerology 09/12/2020`
 
 ## ZODIAC
 
-> Show a astronomy picture of specific date
+> Đưa ra thông tin hoàng đạo về một ngày bất kì
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `ezodiac <DD/MM>`
 >
-> The date must be provided.
+> Ngày bắt buộc phải được nhập.
 >
-> #### Aliases
+> #### Thay thế
 >
 > `hoangdao`
 >
-> #### Example
+> #### Ví dụ
 >
 > `ezodiac 09/12`

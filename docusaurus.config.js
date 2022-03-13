@@ -8,13 +8,13 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Wheat Official Documentation Site',
   tagline: 'Faster understand, faster setting!',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://docs.wheatbot.tech/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'emeralddd', // Usually your GitHub org/user name.
-  projectName: 'wheat', // Usually your repo name.
+  favicon: 'img/logo.svg',
+  organizationName: 'Wheat-Discord-Bot', // Usually your GitHub org/user name.
+  projectName: 'wheat-docs', // Usually your repo name.
   i18n: {
     defaultLocale: 'en',
     locales: ['en', 'vi'],
@@ -27,7 +27,7 @@ const config = {
         docs: {
           routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/Wheat-Discord-Bot/wheat-docs/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),

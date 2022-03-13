@@ -4,26 +4,26 @@ sidebar_position: 5
 
 # Cài đặt
 
-In this documentation, we will use default prefix is `e`.
+Trong tài liệu này, chúng tôi sẽ sử dụng prefix mặc định là `e`.
 
 ## PREFIX
 
-> Show a astronomy picture of specific date
+> Cập nhật lại prefix của bot tại server
 >
-> #### Syntax
+> #### Cú pháp
 >
 > `eprefix <new prefix>`
 >
-> You need **Administrator** or **Manager Server** permission.
+> Bạn cần quyền **Administrator** hoặc **Manager Server**.
 >
-> Prefix's length must be a positive number and less than 32.
+> Prefix phải có độ dài là một số nguyên dương nhỏ hơn 32.
 >
-> New prefix must be provided!
+> Prefix mới phải được nhập
 >
-> #### Aliases
+> #### Thay thế
 >
 > `pf`
 >
-> #### Example
+> #### Ví dụ
 >
 > `eprefix -`

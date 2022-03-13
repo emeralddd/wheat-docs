@@ -5,22 +5,22 @@ sidebar_label: "Câu hỏi thường gặp"
 
 # Câu hỏi thường gặp
 
-### Q1: What is the default prefix of bot?
+### Q1: Prefix mặc định của bot là gì?
 
-Wheat's default prefix is `e`.
+Prefix mặc định của Wheat là `e`.
 
-#### Q1b: Can it be changed?
+#### Q1b: Nó có thể thay đổi được không?
 
-Of course!
+Có!
 
-### Q2: Is Tarot function of bot is always true?
+### Q2: Chức năng Tarot của Bot có hoàn toàn đúng sự thật không?
 
-No! Only use bot for relaxing, shouldn't depend on bot!
+Không! Chỉ sử dụng Bot với mục đích giải trí, không nên phụ thuộc vào bot!
 
-### Q3: What should I do if I forget the prefix of bot?
+### Q3: Nếu quên mất prefix bot thì phải làm như thế nào?
 
-Just ping it on (<@786234973308715008>) and you will get the prefix!
+Hãy ping bot lên (<@786234973308715008>) và sẽ có được prefix!
 
-#### Q3b: What will I do If I want to reset the prefix?
+#### Q3b: Nếu muốn reset lại Prefix thì làm như thế nào?
 
-Please submit support ticket and we will contact with you.
+Hãy gửi một ticket support để chúng tôi có thể liên hệ với bạn.
